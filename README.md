@@ -2,18 +2,18 @@
 
 <!--<h3 align="center">🚀 Passionate Software Engineer & AI Enthusiast</h3> -->
 
----
+
 
 ## 🌟 About Me
 I'm a **Software Engineer** with a deep passion for crafting scalable and efficient software solutions. My expertise revolves around **Artificial Intelligence (AI)** and **Machine Learning (ML)**, along with **Web Development**. I’m constantly seeking to explore the intersection of technology and creativity to deliver impactful, innovative solutions.
 
----
+
 
 ## 🚀 Current Focus
 - **Artificial Intelligence & Machine Learning**: Focused on learning and applying AI/ML techniques to solve real-world problems.
 - **Backend Development**: Specializing in building scalable systems using **.NET Core**.
 
----
+
 
 ## 🔧 Technologies & Tools
 <p align="left">
@@ -29,7 +29,7 @@ I'm a **Software Engineer** with a deep passion for crafting scalable and effici
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
----
+
 
 ## 📫 Let's Connect
 <p align="left">
@@ -39,7 +39,7 @@ I'm a **Software Engineer** with a deep passion for crafting scalable and effici
   <a href="https://www.leetcode.com/fawzyfathi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fawzyfathi6" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## ⚡ Fun Fact
 - I constantly explore new technologies and love experimenting with innovative ideas to advance software development.
