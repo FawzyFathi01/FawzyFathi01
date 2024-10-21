@@ -11,9 +11,12 @@ I'm a Computer Science student at Menoufia University, driven by a passion for b
 
 ---
 
-## 📫 Let's Connect!
-- **GitHub**: [FawzyFathi01](https://github.com/FawzyFathi01)
-- **Email**: fawzyfathi6x@gmail.com
+<h3 align="left"> 📫 Let's Connect!</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fawzyfathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawzyfathi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fawzy_fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fawzy_fathi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fawzyfathi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fawzyfathi6" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -56,10 +59,4 @@ Here are some ideas to get you started:
 
 
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fawzyfathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawzyfathi" height="30" width="40" /></a>
-</p>
 
