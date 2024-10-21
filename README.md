@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fawzy Fathi, 🚀 Passionate Software Engineer & AI Enthusiast</h1>
+<h1 align="center">👋 Hi, I'm Fawzy Fathi, 🚀 Passionate Software Engineer & AI </h1>
 
 <!--<h3 align="center">🚀 Passionate Software Engineer & AI Enthusiast</h3> -->
 
