@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fawzy</h1>
+<h1 align="center">Hi 👋, I'm Fawzy , I'm a Computer Science student at Menoufia University, driven by a passion for building scalable and efficient software solutions. My interests span across both **Web Development** and **Artificial Intelligence**, where I aim to merge creativity with technical expertise.
+</h1>
 
 ## 🌟 About Me
 I'm a Computer Science student at Menoufia University, driven by a passion for building scalable and efficient software solutions. My interests span across both **Web Development** and **Artificial Intelligence**, where I aim to merge creativity with technical expertise.
