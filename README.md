@@ -33,7 +33,8 @@ I'm a **Software Engineer** with a deep passion for crafting scalable and effici
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href="mailto:fawzyfathi6x@gmail.com"><img align="center" src="https://www.svgrepo.com/show/349247/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:fawzyfathi6x@gmail.com"><img align="center" src="![image](https://github.com/user-attachments/assets/2625db19-66b0-4440-9803-4db772fe5250)
+" alt="Email" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/fawzyfathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawzyfathi" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/fawzy_fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fawzy_fathi" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/fawzyfathi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fawzyfathi6" height="30" width="40" /></a>
