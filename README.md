@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fawzy Fathi, 🚀 Passionate Software Engineer & AI</h1>
+<!-- <h1 align="center">Hi 👋, I'm Fawzy Fathi, 🚀 Passionate Software Engineer & AI</h1> -->
 
 <!--<h3 align="center">🚀 Passionate Software Engineer & AI Enthusiast</h3> -->
 
-
+# Hi 👋, I'm Fawzy Fathi, 🚀 Passionate Software Engineer & AI
 
 ## 🌟 About Me
 I'm a **Software Engineer** with a deep passion for crafting scalable and efficient software solutions. My expertise revolves around **Artificial Intelligence (AI)** and **Machine Learning (ML)**, along with **Web Development**. I’m constantly seeking to explore the intersection of technology and creativity to deliver impactful, innovative solutions.
