@@ -8,11 +8,11 @@
 I'm a **Software Engineer** with a deep passion for crafting scalable and efficient software solutions. My expertise revolves around **Artificial Intelligence (AI)** and **Machine Learning (ML)**, along with **Web Development**. I’m constantly seeking to explore the intersection of technology and creativity to deliver impactful, innovative solutions.
 
 
-
+<!--
 ## 🚀 Current Focus
 - **Artificial Intelligence & Machine Learning**: Focused on learning and applying AI/ML techniques to solve real-world problems.
 - **Backend Development**: Specializing in building scalable systems using **.NET Core**.
-
+-->
 
 
 ## 🔧 Technologies & Tools
